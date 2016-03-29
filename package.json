@@ -1,0 +1,28 @@
+{
+  "name": "genius-blocker",
+  "version": "1.0.0",
+  "description": "Block genius from your site",
+  "main": "genius-blocker.js",
+  "scripts": {
+    "test": "true"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toddself/genius-blocker.git"
+  },
+  "keywords": [
+    "genius",
+    "genius",
+    "blocker",
+    "rap",
+    "genius",
+    "news",
+    "genius"
+  ],
+  "author": "Todd Kennedy <todd@selfassembled.org>",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/toddself/genius-blocker/issues"
+  },
+  "homepage": "https://github.com/toddself/genius-blocker#readme"
+}
